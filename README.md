@@ -3,10 +3,9 @@
 
 *<h3>Documents are available on "eMis_Documents" folder</h3>* 
 
-**[Mobile Application Document](https://github.com/masum786/eMis/blob/sonet/eMis_documents/eMis_App_Demo.docx)**<br>
-**[Web API Document](https://github.com/masum786/eMis/blob/sonet/eMis_documents/SUBRA_eMis_API_DETAILS.docx)**<br>
-**[Sales Force Workflow Document](https://github.com/masum786/eMis/blob/sonet/eMis_documents/Sales_Force_Work_Flow.docx)**<br>
-**[eMis Theme v2 Document](https://github.com/masum786/eMis/blob/master/eMis_documents/themeV2/eMis_theme_v2.md)**<br>
+**[Mobile Application Document](https://github.com/KhanSonet/Subra-eMis/blob/master/eMis_documents/eMis_mobile_application_Document.pdf)**<br>
+**[Sales Force Workflow Document](https://github.com/KhanSonet/Subra-eMis/blob/master/eMis_documents/Sales_Force_Work_Flow_20200226.pdf)**<br>
+**[eMis Theme v2 Document](https://github.com/KhanSonet/Subra-eMis/blob/master/eMis_documents/themeV2/eMis_theme_v2.md)**<br>
 
 *<h3>Mobile Application Menu List :</h3>*
 
