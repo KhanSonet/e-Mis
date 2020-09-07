@@ -23,8 +23,8 @@
 *<h3>Mobile Application User Interface :</h3>*
 
 
-Menu Name                  |  Image                                                                   |Menu Name                  |  Image                                                                   |
----------------------------|--------------------------------------------------------------------------|---------------------------|--------------------------------------------------------------------------| 
+Menu Name                  |  Image                                                                   |Menu Name                  |  Image                                                               |
+---------------------------|--------------------------------------------------------------------------|---------------------------|----------------------------------------------------------------------| 
 Login                      |  <img src="./eMis_documents/themeV1/1.png" width="250" height="350">     |Profile                    |  <img src="./eMis_documents/themeV1/2.png" width="250" height="350"> |
 Employee Dashboard         |  <img src="./eMis_documents/themeV1/3.png" width="250" height="350">     |Employee Attendance        |  <img src="./eMis_documents/themeV1/4.png" width="250" height="350"> |
 Attendance List            |  <img src="./eMis_documents/themeV1/5.png" width="250" height="350">     |CRM Dashboard              |  <img src="./eMis_documents/themeV1/6.png" width="250" height="350"> |
@@ -35,6 +35,10 @@ Product Wise Order         |  <img src="./eMis_documents/themeV1/13.png" width="
 Customer List              |  <img src="./eMis_documents/themeV1/15.png" width="250" height="350">    |Leave List                 |  <img src="./eMis_documents/themeV1/16.png" width="250" height="350">|
 Checkbox Filter Dialog     |  <img src="./eMis_documents/themeV1/17.png" width="250" height="350">    |Employee Directory         |  <img src="./eMis_documents/themeV1/18.png" width="250" height="350">|
 Employee Details Card      |  <img src="./eMis_documents/themeV1/19.png" width="250" height="350">    |Employee Payslip           |  <img src="./eMis_documents/themeV1/20.png" width="250" height="350">|
+Order List                 |  <img src="./eMis_documents/themeV1/21.png" width="250" height="350">    |Order Details              |  <img src="./eMis_documents/themeV1/22.png" width="250" height="350">|
+Due Collection             |  <img src="./eMis_documents/themeV1/23.png" width="250" height="350">    |Due Collection List        |  <img src="./eMis_documents/themeV1/24.png" width="250" height="350">|
+Due Collection Order Items |  <img src="./eMis_documents/themeV1/25.png" width="250" height="350">    |Delivery List              |  <img src="./eMis_documents/themeV1/26.png" width="250" height="350">|
+Delivery List Filter       |  <img src="./eMis_documents/themeV1/27.png" width="250" height="350">    |
 
 *<h3>Sales Force Workflow :</h3>*
 
