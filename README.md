@@ -4,8 +4,6 @@
 *<h3>Documents are available on "eMis_Documents" folder</h3>* 
 
 **[Mobile Application Document](https://github.com/KhanSonet/Subra-eMis/blob/master/eMis_documents/eMis_mobile_application_Document.pdf)**<br>
-<!-- **[Sales Force Workflow Document](https://github.com/KhanSonet/Subra-eMis/blob/master/eMis_documents/Sales_Force_Work_Flow_20200226.pdf)**<br> -->
-<!-- **[eMis Theme v2 Document](https://github.com/KhanSonet/Subra-eMis/blob/master/eMis_documents/themeV2/eMis_theme_v2.md)**<br> -->
 
 *<h3>Mobile Application Menu List :</h3>*
 
@@ -15,7 +13,6 @@
 <br>--> Inventory (Datewise inventory dashboard)
 <br>--> Summary (Top 10 and Less 10 product info with month selection)
 <br>--> CRM (CRM Dashboard with details list)
-<!-- <br> Sales (Customer list, order creation, collection module) -->
 <br>--> Visiting (Employee location visiting option)
 <br>--> Leave Apply (Leave application module for employee)
 <br>
@@ -40,6 +37,11 @@ Employee Details Card      |  <img src="./eMis_documents/themeV1/19.png" width="
 Due Collection             |  <img src="./eMis_documents/themeV1/23.png" width="250" height="350">    |Due Collection List        |  <img src="./eMis_documents/themeV1/24.png" width="250" height="350">|
 Due Collection Order Items |  <img src="./eMis_documents/themeV1/25.png" width="250" height="350">    |Delivery List              |  <img src="./eMis_documents/themeV1/26.png" width="250" height="350">|
 Delivery List Filter       |  <img src="./eMis_documents/themeV1/27.png" width="250" height="350">    | -->
+
+<!-- <br> Sales (Customer list, order creation, collection module) -->
+
+<!-- **[Sales Force Workflow Document](https://github.com/KhanSonet/Subra-eMis/blob/master/eMis_documents/Sales_Force_Work_Flow_20200226.pdf)**<br> -->
+<!-- **[eMis Theme v2 Document](https://github.com/KhanSonet/Subra-eMis/blob/master/eMis_documents/themeV2/eMis_theme_v2.md)**<br> -->
 
 <!-- *<h3>Sales Force Workflow :</h3>*
 <img src="./eMis_documents/flowChart/sales_force_flow.png" width="450" height="500"> -->
